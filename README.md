@@ -24,7 +24,8 @@ cd MiniLang
 py parser.py
 ```
 #Exemplos de saida valida
-<img src="https://github.com/erickNunes000/MiniLang/blob/main/Img/exemplo-entrada-valida.jpg" alt="Saida Valida">
+![saida valida](https://github.com/erickNunes000/MiniLang/blob/main/Img/exemplo-entrada-valida.jpg)
+
 
 # Autor
 
