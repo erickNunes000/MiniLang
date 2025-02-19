@@ -8,6 +8,8 @@
 
 
 # Como executar o projeto
+- executar o projeto (execute o arquivo parser.py para iniciar a analise)
+py parser.py
 
 # Pre-requisitos
 Linguagens e bibliotecas: python e ply
@@ -20,7 +22,7 @@ https://github.com/erickNunes000/MiniLang.git
 # entrar na pasta do projeto 
 cd MiniLang
 
-# executar o projeto (execute o parser executara o analisar lexico e sintatico)
+# executar o projeto (execute o arquivo parser.py para iniciar a analise lexica e sintatica)
 py parser.py
 ```
 #Exemplos de testes (Valido e Invalido)
