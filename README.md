@@ -23,7 +23,9 @@ cd MiniLang
 # executar o projeto (execute o parser executara o analisar lexico e sintatico)
 py parser.py
 ```
+
 #Exemplos de saida valida
+
 ![saida valida](https://github.com/erickNunes000/MiniLang/blob/main/Img/exemplo-entrada-valida.jpg)
 
 
