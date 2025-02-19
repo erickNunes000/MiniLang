@@ -24,10 +24,12 @@ cd MiniLang
 py parser.py
 ```
 
-#Exemplos de saida valida
+#Exemplo de saida valida
 
 ![saida valida](https://github.com/erickNunes000/MiniLang/blob/main/Img/exemplo-entrada-valida.jpg)
 
+#Exemplo de saida Invalida
+![Saida Invalida](https://github.com/erickNunes000/MiniLang/blob/main/Img/exemplo-entrada-invalida.jpg)
 
 # Autor
 
