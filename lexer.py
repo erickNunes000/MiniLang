@@ -1,3 +1,5 @@
+#Analisador lexico MiniLang - Erico Fernandes Nunes
+
 import ply.lex as lex
 
 # Lista de palavras reservadas

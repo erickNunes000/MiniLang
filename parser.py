@@ -1,3 +1,5 @@
+#Analisador sintatico MiniLang - Erico Fernandes Nunes
+
 import ply.yacc as yacc
 from lexer import tokens  # Importando tokens do analisador léxico
 
