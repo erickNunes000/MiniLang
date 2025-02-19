@@ -27,6 +27,7 @@ py parser.py
 ##Entrada Valida
 ##Saida Valida
 (https://github.com/erickNunes000/MiniLang/blob/main/Img/exemplo-entrada-valida.jpg)
+<img src="https://github.com/erickNunes000/MiniLang/blob/main/Img/exemplo-entrada-valida.jpg" alt="Saida Valida">
 
 # Autor
 
