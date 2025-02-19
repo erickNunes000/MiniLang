@@ -9,8 +9,8 @@
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: python e ply
+# Pre-requisitos
+Linguagens e bibliotecas: python e ply
 Instalar ply: pip install ply
 
 ```bash
@@ -23,6 +23,10 @@ cd MiniLang
 # executar o projeto (execute o parser executara o analisar lexico e sintatico)
 py parser.py
 ```
+#Exemplos de entrada e saida
+##Entrada Valida
+##Saida Valida
+https://github.com/erickNunes000/MiniLang/blob/main/Img/exemplo-entrada-valida.jpg
 
 # Autor
 
