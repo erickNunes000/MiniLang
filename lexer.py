@@ -14,7 +14,7 @@ reserved = {
 
 # Lista de tokens
 tokens = [
-    'ID',
+    'ID',       #identifica nomes de variaveis
     'NUMBER',      # Identificador de Numeros como (5.5 e 2)
     'PLUS',         # Operador soma "+"
     'MINUS',        # Operador subtracao "-"
