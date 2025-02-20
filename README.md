@@ -15,7 +15,7 @@
 - Linguagens e bibliotecas: python e ply
 - Instalar ply: pip install ply
 
-#Observações
+# Observações
 - Pasta de imagens "Img" onde estão disponiveis prints dos teste realizados
 
 
@@ -29,7 +29,7 @@ cd MiniLang
 # executar o projeto (execute o arquivo parser.py para iniciar a analise lexica e sintatica)
 py parser.py
 ```
-#Exemplos de testes (Valido e Invalido)
+# Exemplos de testes (Valido e Invalido)
 
 ![Exemplos de entradas](https://github.com/erickNunes000/MiniLang/blob/main/Img/Testes.jpg)
 
