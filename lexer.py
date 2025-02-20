@@ -14,13 +14,13 @@ reserved = {
 
 # Lista de tokens
 tokens = [
-    'ID',       #identifica nomes de variaveis
+    'ID',         #identifica nomes de variaveis
     'NUMBER',      # Identificador de Numeros como (5.5 e 2)
     'PLUS',         # Operador soma "+"
     'MINUS',        # Operador subtracao "-"
     'TIMES',       # Operador multiplicacao "*"
     'DIVIDE',      # Operador divisao "/"
-    'LPAREN',     #Parentese esquerdo "("
+    'LPAREN',      #Parentese esquerdo "("
     'RPAREN',     #Parentese direito ")"
     'SEMICOLON',  # Ponto e vírgula (;)
     'EQUALS',     # Operador de atribuição (=)
