@@ -9,11 +9,15 @@
 
 # Como executar o projeto
 - executar o projeto (execute o arquivo parser.py para iniciar a analise)
-py parser.py
+- execute o comando: py parser.py
 
 # Pre-requisitos
-Linguagens e bibliotecas: python e ply
-Instalar ply: pip install ply
+- Linguagens e bibliotecas: python e ply
+- Instalar ply: pip install ply
+
+#Observações
+- Pasta de imagens "Img" onde estão disponiveis prints dos teste realizados
+
 
 ```bash
 # clonar repositório
